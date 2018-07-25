@@ -8,9 +8,11 @@ h2{
   font-family: 'covered by your grace';
 }
 body{
-  background-color: black;
+  background-image: url("IMG_2502.JPG");
   color: white;
   font-family: 'Covered By Your Grace';font-size: 17px;
+  text-shadow: -2px -2px 0 black;
+
 }
 #q1{
   font-size: 30px;
